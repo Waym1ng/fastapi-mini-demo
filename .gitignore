@@ -1,0 +1,49 @@
+# IDE 相关
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python 环境
+.venv/
+venv/
+env/
+
+# 编译文件
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 日志与数据库
+*.log
+*.sqlite
+*.db
+
+# 测试相关
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 其他
+.DS_Store
+*.bak
+temp/
